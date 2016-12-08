@@ -1,0 +1,37 @@
+
+<style>
+	.roundDiv {
+		background-repeat: no-repeat;
+		background-position: 50%;
+		border-radius: 50%;
+		width: 35px;
+		height: 35px;
+		box-shadow: 2px 2px 5px #888888;
+	}
+</style>
+
+<div class="container">
+	<p>
+		{{vaccineIntro}}
+	</p>
+	<br>
+	<div class="row"  ng-repeat="vaccine in vaccines"  style="height: 30px; background-color: ">
+		<div class="col s2" style="margin-top: -7px">
+			<div class="roundDiv" style="background-color: #CDDC39; text-align: center; padding-top: 7px">{{vaccine['id']}}</div>
+		</div>
+		<div class="col s10"  style="border-bottom: lightgray solid 1px; height: 30px">{{vaccine['name']}}</div>
+	</div>
+
+	<p>
+		{{enzymeIntro}}
+	</p>
+	<br>
+	<div class="row"  ng-repeat="enzyme in enzymes"  style="height: 30px; background-color: ">
+		<div class="col s2" style="margin-top: -7px">
+			<div class="roundDiv" style="background-color: #CDDC39; text-align: center; padding-top: 7px">{{enzyme['id']}}</div>
+		</div>
+		<div class="col s10"  style="border-bottom: lightgray solid 1px; height: 30px">{{enzyme['name']}}</div>
+	</div>
+</div>
+
+
