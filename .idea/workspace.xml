@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3470aeb6-1785-465d-8d6d-501f9904c094" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Views/lifestyle.html___jb_tmp___" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Views/nutrition.html___jb_tmp___" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/controllers/visitsController.js___jb_tmp___" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/lifestyle.html" afterPath="$PROJECT_DIR$/Views/lifestyle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/nutrition.html" afterPath="$PROJECT_DIR$/Views/nutrition.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/nutritionDetail.html" afterPath="$PROJECT_DIR$/Views/nutritionDetail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/symptoms.html" afterPath="$PROJECT_DIR$/Views/symptoms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/vaccine.html" afterPath="$PROJECT_DIR$/Views/vaccine.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/homeController.js" afterPath="$PROJECT_DIR$/controllers/homeController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/lifestyleController.js" afterPath="$PROJECT_DIR$/controllers/lifestyleController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/nutritionController.js" afterPath="$PROJECT_DIR$/controllers/nutritionController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/symptomsController.js" afterPath="$PROJECT_DIR$/controllers/symptomsController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/vaccineController.js" afterPath="$PROJECT_DIR$/controllers/vaccineController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/visitsController.js" afterPath="$PROJECT_DIR$/controllers/visitsController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/routes.js" afterPath="$PROJECT_DIR$/js/routes.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Views/home.html___jb_tmp___" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Views/visits.html___jb_tmp___" afterPath="" />
     </list>
     <ignored path="cysticfibrosis.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -123,6 +109,52 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ng-repeat-owl-carousel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -233,12 +265,12 @@
       <workItem from="1481106949770" duration="116000" />
       <workItem from="1481107069116" duration="2000" />
       <workItem from="1481107074028" duration="24808000" />
-      <workItem from="1481221388885" duration="3312000" />
+      <workItem from="1481221388885" duration="3459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67713000" />
+    <option name="totallyTimeSpent" value="67860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
