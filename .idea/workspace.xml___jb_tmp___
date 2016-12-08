@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3470aeb6-1785-465d-8d6d-501f9904c094" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Views/visits.html___jb_tmp___" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/nutrition.html" afterPath="$PROJECT_DIR$/Views/nutrition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/home.html" afterPath="$PROJECT_DIR$/Views/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/lifestyle.html" afterPath="$PROJECT_DIR$/Views/lifestyle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/nutritionDetail.html" afterPath="$PROJECT_DIR$/Views/nutritionDetail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/visits.html" afterPath="$PROJECT_DIR$/Views/visits.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html___jb_tmp___" afterPath="$PROJECT_DIR$/index.html___jb_tmp___" />
     </list>
     <ignored path="cysticfibrosis.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,14 +29,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="75" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="75" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
+                <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lifestyle.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/lifestyle.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -40,8 +67,8 @@
       <file leaf-file-name="visits.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Views/visits.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="952">
+              <caret line="56" column="36" lean-forward="true" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -57,16 +84,17 @@
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#2;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#div#2;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#div#0;n#div#2;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nutrition.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nutrition.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Views/nutrition.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -80,6 +108,20 @@
             <state relative-caret-position="187">
               <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nutritionDetail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/nutritionDetail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,22 +151,22 @@
         <option value="$PROJECT_DIR$/vaccine.json" />
         <option value="$PROJECT_DIR$/lifestyle.json" />
         <option value="$PROJECT_DIR$/Views/vaccine.html" />
-        <option value="$PROJECT_DIR$/Views/lifestyle.html" />
         <option value="$PROJECT_DIR$/nutrition.json" />
-        <option value="$PROJECT_DIR$/Views/nutritionDetail.html" />
         <option value="$PROJECT_DIR$/js/routes.js" />
         <option value="$PROJECT_DIR$/controllers/nutritionController.js" />
         <option value="$PROJECT_DIR$/controllers/vaccineController.js" />
         <option value="$PROJECT_DIR$/controllers/lifestyleController.js" />
         <option value="$PROJECT_DIR$/controllers/homeController.js" />
-        <option value="$PROJECT_DIR$/Views/home.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/controllers/symptomsController.js" />
         <option value="$PROJECT_DIR$/controllers/menuController.js" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/controllers/visitsController.js" />
-        <option value="$PROJECT_DIR$/Views/visits.html" />
         <option value="$PROJECT_DIR$/Views/nutrition.html" />
+        <option value="$PROJECT_DIR$/Views/nutritionDetail.html" />
+        <option value="$PROJECT_DIR$/Views/home.html" />
+        <option value="$PROJECT_DIR$/Views/lifestyle.html" />
+        <option value="$PROJECT_DIR$/Views/visits.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -194,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="nutrition&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/nutrition.html&#10;app.&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/app.js&#10;nutr&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/nutritionController.js&#10;sympto&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;visits&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/visitsController.js&#10;symp&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/symptoms.html&#10;menu&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/menuController.js&#10;visit&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/visits.html&#10;home&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/home.html&#10;vis&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/visitsController.js&#10;visi&#9;null&#9;null&#10;life&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/lifestyleController.js&#10;vacci&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/vaccineController.js&#10;rout&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/routes.js&#10;sy&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;nutri&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/nutritionController.js&#10;symptoms&#9;FILE&#9;file:///var/www/html/cysticfibrosis/Views/symptoms.html&#10;routes&#9;FILE&#9;file:///var/www/html/cysticfibrosis/js/routes.js&#10;inde&#9;FILE&#9;file:///var/www/html/cysticfibrosis/index.html&#10;app&#9;FILE&#9;file:///Applications/XAMPP/htdocs/cysticfibrosis/js/app.js&#10;index&#9;FILE&#9;file:///Applications/XAMPP/htdocs/cysticfibrosis/index.html&#10;rou&#9;FILE&#9;file:///Applications/XAMPP/htdocs/cysticfibrosis/js/routes.js&#10;symptom&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;init&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/init.js" />
+    <property name="SearchEverywhereHistoryKey" value="lifes&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/lifestyle.html&#10;home&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/home.html&#10;nutr&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/nutritionDetail.html&#10;nutrition&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/nutrition.html&#10;app.&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/app.js&#10;sympto&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;visits&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/visitsController.js&#10;symp&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/symptoms.html&#10;menu&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/menuController.js&#10;visit&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/visits.html&#10;vis&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/visitsController.js&#10;visi&#9;null&#9;null&#10;life&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/lifestyleController.js&#10;vacci&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/vaccineController.js&#10;rout&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/routes.js&#10;sy&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;nutri&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/nutritionController.js&#10;symptoms&#9;FILE&#9;file:///var/www/html/cysticfibrosis/Views/symptoms.html&#10;routes&#9;FILE&#9;file:///var/www/html/cysticfibrosis/js/routes.js&#10;inde&#9;FILE&#9;file:///var/www/html/cysticfibrosis/index.html&#10;app&#9;FILE&#9;file:///Applications/XAMPP/htdocs/cysticfibrosis/js/app.js&#10;index&#9;FILE&#9;file:///Applications/XAMPP/htdocs/cysticfibrosis/index.html&#10;rou&#9;FILE&#9;file:///Applications/XAMPP/htdocs/cysticfibrosis/js/routes.js&#10;symptom&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;init&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/init.js" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -269,12 +311,12 @@
       <workItem from="1481106949770" duration="116000" />
       <workItem from="1481107069116" duration="2000" />
       <workItem from="1481107074028" duration="24808000" />
-      <workItem from="1481217776566" duration="991000" />
+      <workItem from="1481217776566" duration="2010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65392000" />
+    <option name="totallyTimeSpent" value="66411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
@@ -284,19 +326,19 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +382,7 @@
         <state relative-caret-position="697">
           <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
           <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -411,6 +454,7 @@
         <state relative-caret-position="288">
           <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -451,6 +495,7 @@
         <state relative-caret-position="0">
           <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="36" />
           <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -519,13 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/lifestyle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Views/vaccine.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -572,34 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="75" lean-forward="false" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="75" />
-          <folding>
-            <element signature="n#style#0;n#a#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/nutritionDetail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,10 +665,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Views/nutritionDetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/lifestyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/nutrition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Views/visits.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="952">
+          <caret line="56" column="36" lean-forward="true" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -674,16 +714,28 @@
             <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#2;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#div#2;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#3;n#div#0;n#div#2;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/nutrition.html">
+    <entry file="file://$PROJECT_DIR$/Views/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
