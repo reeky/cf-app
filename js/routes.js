@@ -1,5 +1,5 @@
     app.config(function($routeProvider){
-
+        // ROUTES OF THE APPLICATION
         $routeProvider
             .when("/403", {
                 templateUrl: "Views/unauthorized.html",

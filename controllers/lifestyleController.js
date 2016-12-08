@@ -2,6 +2,7 @@ this.lifestyleController = function ($scope, $http, $location, UserService) {
 
     document.getElementById("docbody").className = "";
 
+    // DEFINE INTRO
     $scope.lifestyleIntro = 'Some of the lifestyle changes that CF patients require are:';
 
     // GET LIFESTYLES

@@ -1,7 +1,9 @@
 this.nutritionController = function ($scope, $http, $route, $location, UserService) {
 
+    // CHANGE PAGE BACKGROUND
     document.getElementById("docbody").className = "";
 
+    // DEFINE PAGE INTRO
     $scope.intro = 'The following are ways for adding protein and calories to the diet. Be sure to follow other specific instructions from your health care provider. Eat whenever you are hungry. This may mean eating several small meals throughout the day.';
 
     // GET THE NUTRITION
@@ -15,17 +17,17 @@ this.nutritionController = function ($scope, $http, $route, $location, UserServi
     $http.get(UserService.globalRoot + "/nutrition.json")
         .then(function (response) {
             $scope.nutritions = response.data;
+            // FILTER THROUGH THE ARRAY TO FIND RECORD
             angular.forEach($scope.nutritions, function(nutritionByIds) {
-
-                if(nutritionByIds.id == $route.current.params.id)
+                if(nutritionByIds.id == $route.current.params.id) // CHECK IF A RECORD EXISTS WITH THE ID IN URL
                     $scope.nutritionById = nutritionByIds;
-
             });
+            // END FILTER
         });
     // END NUTRITION
 
     // GET THE DETAIL OF NUTRITION
-    $scope.nutritionDetail = function(id,name){
+    $scope.nutritionDetail = function(id){
         $scope.topColor = '#558B2F';
         $scope.pageName = "Whatever";
         $location.path('nutrition/'+id);
@@ -40,4 +42,4 @@ this.nutritionController = function ($scope, $http, $route, $location, UserServi
     };
     // GO BACK END
 
-}
+};
