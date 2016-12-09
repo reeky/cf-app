@@ -8,12 +8,22 @@
 		</div>
 		<div class="col s12 l6">
 			<h5 style="color: #558B2F; font-weight: bold">{{nutritionById['name']}}</h5>
-			<h5>{{nutritionById['description']}}</h5>
+			<h6>{{nutritionById['description']}}</h6>
 			<br>
+			<h7 style="color: #558B2F; font-weight: bold; font-size: 17px">Last serving</h7>
+
+			<ul>
+				<li>{{selectedFood.detail}} ({{selectedFood.date | date:'dd-MM-yyyy'}})</li>
+			</ul>
+			<form ng-submit="updateIntake(nutritionById['id'],nutUpdate)">
+				<input ng-model="nutUpdate.detail">
+				<div style="text-align: center">
+					<button type="submit" class="btn">Update</button>
+				</div>
+			</form>
 		</div>
 	</div>
 	<!--END RECORD-->
-
 </div>
 
 

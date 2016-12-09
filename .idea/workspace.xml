@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3470aeb6-1785-465d-8d6d-501f9904c094" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Web.Config" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/home.html" afterPath="$PROJECT_DIR$/Views/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/nutritionDetail.html" afterPath="$PROJECT_DIR$/Views/nutritionDetail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/nutritionController.js" afterPath="$PROJECT_DIR$/controllers/nutritionController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
     </list>
     <ignored path="cysticfibrosis.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,15 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Views/home.html">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="646">
+              <caret line="38" column="53" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,6 +43,8 @@
       <find>createPresc</find>
       <find>visitsArray</find>
       <find>push</find>
+      <find>dat</find>
+      <find>Date</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -69,19 +68,19 @@
         <option value="$PROJECT_DIR$/Views/symptoms.html" />
         <option value="$PROJECT_DIR$/Views/vaccine.html" />
         <option value="$PROJECT_DIR$/Views/lifestyle.html" />
-        <option value="$PROJECT_DIR$/Views/nutritionDetail.html" />
         <option value="$PROJECT_DIR$/js/routes.js" />
         <option value="$PROJECT_DIR$/Views/nutrition.html" />
         <option value="$PROJECT_DIR$/controllers/visitsController.js" />
         <option value="$PROJECT_DIR$/controllers/lifestyleController.js" />
-        <option value="$PROJECT_DIR$/controllers/nutritionController.js" />
         <option value="$PROJECT_DIR$/controllers/symptomsController.js" />
         <option value="$PROJECT_DIR$/controllers/vaccineController.js" />
-        <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Web.Config" />
         <option value="$PROJECT_DIR$/Web.config" />
         <option value="$PROJECT_DIR$/Views/home.html" />
+        <option value="$PROJECT_DIR$/Views/nutritionDetail.html" />
+        <option value="$PROJECT_DIR$/controllers/nutritionController.js" />
+        <option value="$PROJECT_DIR$/js/app.js" />
       </list>
     </option>
   </component>
@@ -128,16 +127,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cf-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="home&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/home.html&#10;app&#9;FILE&#9;file://D:/wamp64/www/cf-app/js/app.js&#10;IN&#9;FILE&#9;file://D:/wamp64/www/cf-app/index.html&#10;nutrition&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/nutritionController.js&#10;menu&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/menuController.js&#10;index&#9;FILE&#9;file://D:/wamp64/www/cf-app/index.html&#10;visits&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/visitsController.js&#10;routes&#9;FILE&#9;file://D:/wamp64/www/cf-app/js/routes.js&#10;nutri&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/nutritionDetail.html&#10;NUTRITION&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/nutrition.html&#10;LIFE&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/lifestyleController.js&#10;LIFES&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/lifestyle.html&#10;vacci&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/vaccineController.js&#10;vacc&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/vaccine.html&#10;app.&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/app.js&#10;nutr&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/nutritionController.js&#10;sympto&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;symp&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/symptoms.html&#10;visit&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/visits.html&#10;vis&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/visitsController.js&#10;visi&#9;null&#9;null&#10;life&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/lifestyleController.js&#10;rout&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/routes.js&#10;sy&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;symptoms&#9;FILE&#9;file:///var/www/html/cysticfibrosis/Views/symptoms.html&#10;inde&#9;FILE&#9;file:///var/www/html/cysticfibrosis/index.html&#10;rou&#9;FILE&#9;file:///Applications/XAMPP/htdocs/cysticfibrosis/js/routes.js&#10;symptom&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;init&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/init.js" />
+    <property name="SearchEverywhereHistoryKey" value="visits&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/visits.html&#10;app&#9;FILE&#9;file://D:/wamp64/www/cf-app/js/app.js&#10;nutr&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/nutritionDetail.html&#10;home&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/home.html&#10;IN&#9;FILE&#9;file://D:/wamp64/www/cf-app/index.html&#10;nutrition&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/nutritionController.js&#10;menu&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/menuController.js&#10;index&#9;FILE&#9;file://D:/wamp64/www/cf-app/index.html&#10;routes&#9;FILE&#9;file://D:/wamp64/www/cf-app/js/routes.js&#10;nutri&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/nutritionDetail.html&#10;NUTRITION&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/nutrition.html&#10;LIFE&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/lifestyleController.js&#10;LIFES&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/lifestyle.html&#10;vacci&#9;FILE&#9;file://D:/wamp64/www/cf-app/controllers/vaccineController.js&#10;vacc&#9;FILE&#9;file://D:/wamp64/www/cf-app/Views/vaccine.html&#10;app.&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/app.js&#10;sympto&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;symp&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/symptoms.html&#10;visit&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/Views/visits.html&#10;vis&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/visitsController.js&#10;visi&#9;null&#9;null&#10;life&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/lifestyleController.js&#10;rout&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/routes.js&#10;sy&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;symptoms&#9;FILE&#9;file:///var/www/html/cysticfibrosis/Views/symptoms.html&#10;inde&#9;FILE&#9;file:///var/www/html/cysticfibrosis/index.html&#10;rou&#9;FILE&#9;file:///Applications/XAMPP/htdocs/cysticfibrosis/js/routes.js&#10;symptom&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/controllers/symptomsController.js&#10;init&#9;FILE&#9;file://D:/wamp64/www/cysticfibrosis/js/init.js" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -156,34 +169,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -240,11 +229,13 @@
       <workItem from="1481221388885" duration="11472000" />
       <workItem from="1481274589895" duration="620000" />
       <workItem from="1481276128999" duration="2387000" />
+      <workItem from="1481279948496" duration="3041000" />
+      <workItem from="1481284700458" duration="2378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78880000" />
+    <option name="totallyTimeSpent" value="84299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
@@ -254,19 +245,19 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,13 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/nutritionDetail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/routes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -513,31 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nutrition.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/visits.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="48" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/nutritionController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,14 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/visitsController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="68" column="35" lean-forward="false" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/symptomsController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -597,18 +548,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#ul#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -616,22 +559,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.js">
+    <entry file="file://$PROJECT_DIR$/Views/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nutrition.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/home.html">
+    <entry file="file://$PROJECT_DIR$/Views/nutritionDetail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h7#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/nutritionController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/visits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/visitsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="79" column="22" lean-forward="false" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="53" lean-forward="true" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
