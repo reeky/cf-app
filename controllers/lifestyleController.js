@@ -6,7 +6,7 @@ this.lifestyleController = function ($scope, $http, $location, UserService) {
     $scope.lifestyleIntro = 'Some of the lifestyle changes that CF patients require are:';
 
     // GET LIFESTYLES
-    $http.get(UserService.globalRoot + "/lifestyle.json")
+    $http.get("/lifestyle.json")
         .then(function (response) {
             $scope.lifestyles = response.data;
         });

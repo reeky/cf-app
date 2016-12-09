@@ -2,9 +2,13 @@
 
     var app = angular.module("cf", ["ngRoute","ocNgRepeat"]);
 
-    app.factory('UserService', function() {
+    // THIS IS WHERE THE GLOBAL VARIABLES ARE DEFINED AS A SERVICE NAMED UserService
+    /*
+        THE PRESCRIPTION AND VISITS ARRAY ARE DEFINED HERE AS A GLOBAL SO THAT
+        THE CONTENT WILL REMAIN GLOBAL AND UNCHANGED EVEN WHEN PAGE NAVIGATES.
+    */
+app.factory('UserService', function() {
         return {
-            globalRoot : 'http://cf',
             prescription : [{ id: 1, visit: 1, name: "Panadol 10mg (BBD)"},
                 { id: 2, visit: 1, name: "Paracetamil 20mg"},
                 { id: 3, visit: 2, name: "Voltarin 20mg"},
@@ -16,10 +20,10 @@
                 { id: 3, name: "Dr. Ahmed Rasheed", letter: "A", color: "#1DE9B6", date: "08-12-2016"},
                 { id: 4, name: "Dr.Naresh Patel", letter: "N", color: "#00BCD4", date: "08-12-2016"},
                 { id: 5, name: "Dr. Abhijeeth Sawanth", letter: "A", color: "#D500F9", date: "08-12-2016"}
-            ],
-            tempItemList :[]
+            ]
         };
     });
+    // GLOBAL VARIABLES END
 
     ////////////////////// DEFINE CONTROLLERS ///////////////////////
     app.controller("menuController", menuController);

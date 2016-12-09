@@ -8,14 +8,14 @@ this.vaccineController = function ($scope, $http, $location, UserService) {
     // END INTROS
 
     // GET VACCINES
-    $http.get(UserService.globalRoot + "/vaccine.json")
+    $http.get("/vaccine.json")
         .then(function (response) {
             $scope.vaccines = response.data;
         });
     // END VACCINES
 
     // GET ENZYMES
-    $http.get(UserService.globalRoot + "/enzyme.json")
+    $http.get("/enzyme.json")
         .then(function (response) {
             $scope.enzymes = response.data;
         });

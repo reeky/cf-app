@@ -7,14 +7,14 @@ this.nutritionController = function ($scope, $http, $route, $location, UserServi
     $scope.intro = 'The following are ways for adding protein and calories to the diet. Be sure to follow other specific instructions from your health care provider. Eat whenever you are hungry. This may mean eating several small meals throughout the day.';
 
     // GET THE NUTRITION
-    $http.get(UserService.globalRoot + "/nutrition.json")
+    $http.get("/nutrition.json")
         .then(function (response) {
             $scope.nutritions = response.data;
         });
     // END NUTRITION
 
     // GET THE NUTRITION BY ID
-    $http.get(UserService.globalRoot + "/nutrition.json")
+    $http.get("/nutrition.json")
         .then(function (response) {
             $scope.nutritions = response.data;
             // FILTER THROUGH THE ARRAY TO FIND RECORD
